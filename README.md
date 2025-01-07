@@ -61,7 +61,7 @@ make help
 #### Running tests
 - make regress - runs all the test and combines the reports
 - make cov - view the coverage reports
-- view_wave2 - open the .wlf (wave file) in questa gui
+- make view_wave2 - open the .wlf (wave file) in questa gui
 
 ```bash
   cd sim 
