@@ -8,7 +8,7 @@ This project demonstrates the verification of a 4-bit Gray counter design using 
 
 ## Architecture
 
-![App Screenshot](https://github.com/Yashas2801/Grey_counter_verification_uvm/blob/f523667a294243463e9cb1b00a28f4c87f2f918d/Architecture.png)
+![App Screenshot](https://github.com/Yashas2801/Grey_counter_verification_uvm/blob/c54d85b4e8d728b17c19c90f3613d07003ac0430/Architecture.png)
 
 
 ## Features
